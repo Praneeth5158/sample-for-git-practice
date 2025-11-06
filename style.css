@@ -1,0 +1,16 @@
+body{
+
+    background-color:orange;
+    font-family:arial;
+    background-image:url("pic.jpg") ;
+    background-position: center;
+    background-size:400px;
+    background-repeat: no-repeat;
+}
+h1{
+    display:flex;
+    align-items :center;
+    justify-content:center;
+    padding-top:100px;
+    color:blue
+}
